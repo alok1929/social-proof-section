@@ -1,7 +1,7 @@
 module.exports = {
   content: ["./src/index.html"],
   theme: {
-    colors:{
+    colors: {
       VeryDarkMagenta: "hsl(300, 43%, 22%)",
       SoftPink: "hsl(333, 80%, 67%)",
       DarkGrayishMagenta: "hsl(303, 10%, 53%)",
@@ -11,4 +11,4 @@ module.exports = {
     extend: {},
   },
   plugins: [],
-}
+};
